@@ -24,10 +24,7 @@
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1**](URL_TO_ASSIGNMENT_1) <!-- Replace with actual URL -->
-- Link to Assignment 2: [**Assignment 2**](URL_TO_ASSIGNMENT_2) <!-- Replace with actual URL -->
-- Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
-<!-- Add more assignments as necessary -->
+- Link to User personas and information architecture: [**Class project 2**](https://github.com/emil-vincic/HCI-2024-25/blob/ffc8a9a5e5572198803d914f73e0ad95b93f9478/User%20personas%20and%20information%20architecture/README.md) <!-- Replace with actual URL -->
 
 ## Project Requirements
 
