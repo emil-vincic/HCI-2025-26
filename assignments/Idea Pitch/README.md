@@ -1,6 +1,6 @@
 # Smart Budgeting & Expense Tracker Web Application
 
-![Video Pitch](https://github.com/emil-vincic/HCI-2025-26/blob/main/assignments/Smart%20Budgeting%20%26%20Expense%20Tracker%20Web%20Application.mp4)
+![Video Pitch](https://www.dropbox.com/scl/fi/yoa8y5s5yoaeqwbse4u6r/Smart-Budgeting-Expense-Tracker-Web-Application.mp4?rlkey=lz6efyx2rqejamh7tiico8sit&st=k558pwtj&dl=0)
 
 ## Problems
 Dealing effectively with irregular income, using the most out of digital payment options and control of impulsive spending.
