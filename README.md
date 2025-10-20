@@ -24,7 +24,7 @@
 
 ### Semester Assignments
 
-- Link to User personas and information architecture: [**Assignment 2**](https://github.com/emil-vincic/HCI-2024-25/blob/ffc8a9a5e5572198803d914f73e0ad95b93f9478/User%20personas%20and%20information%20architecture/README.md) <!-- Replace with actual URL -->
+- Link to Assignment 1: [**Assignment 1**](https://github.com/emil-vincic/HCI-2025-26/tree/main/assignments/Idea%20Pitch) <!-- Replace with actual URL -->
 
 ## Project Requirements
 
