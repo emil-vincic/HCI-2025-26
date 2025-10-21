@@ -1,6 +1,6 @@
 # Smart Budgeting & Expense Tracker Web Application
 
-## Problems
+## Problems trying to solve
 Dealing effectively with irregular income, using the most out of digital payment options and control of impulsive spending.
 
 ## Target users
