@@ -15,4 +15,4 @@ As I myself belong to the target audience, I find it very useful to have a tool 
 long-term profitability. It's the common challenge for target users to resist the urge of impulsive spending whenever it happens.
 
 ## Video Pitch
-[Smart Budgeting & Expense Tracker Web Application](https://www.dropbox.com/scl/fi/yoa8y5s5yoaeqwbse4u6r/Smart-Budgeting-Expense-Tracker-Web-Application.mp4?rlkey=lz6efyx2rqejamh7tiico8sit&st=k558pwtj&dl=0)
+[Video - Smart Budgeting & Expense Tracker Web Application](https://www.dropbox.com/scl/fi/yoa8y5s5yoaeqwbse4u6r/Smart-Budgeting-Expense-Tracker-Web-Application.mp4?rlkey=lz6efyx2rqejamh7tiico8sit&st=k558pwtj&dl=0)
