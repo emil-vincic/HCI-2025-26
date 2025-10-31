@@ -18,13 +18,14 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
-- Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
+- Link to production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
+- Link to final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1**](https://github.com/emil-vincic/HCI-2025-26/tree/main/assignments/Idea%20Pitch) <!-- Replace with actual URL -->
+- Link to Assignment 1: [**Assignment 1**](https://github.com/emil-vincic/HCI-2025-26/tree/main/assignments/Idea%20Pitch)
+- Link to Assignment 2: [**Assignment 2**](https://github.com/emil-vincic/HCI-2025-26/tree/main/assignments/User%20personas%20and%20information%20architecture)
 
 ## Project Requirements
 
