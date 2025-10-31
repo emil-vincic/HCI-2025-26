@@ -1,10 +1,10 @@
-## User Personas for Personal Finance Tracker App
+## User Personas for Smart Budgeting & Expense Tracker Web Application
 
 ![Sarah Thompson](https://github.com/emil-vincic/HCI-2024-25/blob/8a385f30d44b4948f2c6eae66eb9ac54690722e5/assignments/User%20personas%20and%20information%20architecture/Basic%20information.png)
 ![Mark Rodriguez](https://github.com/emil-vincic/HCI-2024-25/blob/8a385f30d44b4948f2c6eae66eb9ac54690722e5/assignments/User%20personas%20and%20information%20architecture/MarkRodriguez.png)
 ![Emily Chen](https://github.com/emil-vincic/HCI-2024-25/blob/8a385f30d44b4948f2c6eae66eb9ac54690722e5/assignments/User%20personas%20and%20information%20architecture/EmilyChen.png)
 
-## Sitemap for Personal Finance Tracker App
+## Sitemap for Smart Budgeting & Expense Tracker Web Application
 
 ![Sitemap](https://github.com/emil-vincic/HCI-2024-25/blob/95500518a7f0a551b157e8a224de666d04d21df3/User%20personas%20and%20information%20architecture/Sitemap_update.png)
 
